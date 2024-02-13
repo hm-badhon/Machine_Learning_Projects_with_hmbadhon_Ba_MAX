@@ -1,4 +1,4 @@
-# 10_Machine_Learning_Projects_with_hmbadhon
+# Machine_Learning_Projects_with_hmbadhon
  
 ## 1. Online Payments Fraud Detection
 
@@ -20,4 +20,10 @@
 
 ## 11. Stress Detection
 
+## 12. Electricity Price Prediction
+
+## 13. Language Detection with Machine Learning
+
+
+# Analysis :
 ## Topic Modelling
