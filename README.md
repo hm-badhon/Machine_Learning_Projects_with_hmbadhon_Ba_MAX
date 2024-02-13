@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning Projects with hmbadhon
 
 This repository contains a collection of machine learning projects implemented in Python.
 
