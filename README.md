@@ -1,5 +1,5 @@
-# Machine Learning Projects with hmbadhon
-
+# Machine Learning Projects with Hmbadhon
+ 
 This repository contains a collection of machine learning projects implemented in Python.
 
 ## Project List
@@ -44,3 +44,6 @@ This repository contains a collection of machine learning projects implemented i
 
 - **Topic Modeling**
   - Description: Analyzing topics present in textual data using topic modeling algorithms.
+  
+- **Predicting Telco Customer Churn**
+  - Description: Predicting customer churn for a telecommunications company to understand customer retention strategies.
