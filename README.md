@@ -32,7 +32,7 @@
 
 - **Techniques**: Linear Regression, EDA with visualizations.
 - **Results**: Identified key factors affecting tips, allowing for better waitstaff insights.
-- **Code**: [Link to Project](#1-waiter-tips-analysis--prediction)
+- **Code**: [Link to Project](#https://github.com/hm-badhon/Machine_Learning_Projects_with_hmbadhon_Ba_MAX/tree/main/1.%20Waiter%20Tips%20Analysis%20%26%20Prediction)
 
 ### 2. Language Detection with Machine Learning
 **Goal**: Detect the language of given text samples.
