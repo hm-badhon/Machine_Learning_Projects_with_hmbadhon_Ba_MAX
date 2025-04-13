@@ -14,6 +14,4 @@ Customer Churn Prediction in Telco company
 ===============================
 
 ## PDF and Notebook
-- [Details PDF](Telco_customer_churn_prediction_using_ML.pdf)
-
 - [Jupyter Notebook](Telco_customer_churn_prediction_using_ML.ipynb)
